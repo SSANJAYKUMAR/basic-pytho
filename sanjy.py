@@ -1,0 +1,6 @@
+name=input("my name:")
+cgpa=int(input("cgpa"))
+college_name=input("college_name")
+print(name)
+print("I am",name,"and i and studing in",college_name,"having cgpa is",cgpa)
+print("i am {} and i am studingin {} have a cgpa of{}".format(name,college_name,cgpa))
